@@ -1,0 +1,4 @@
+E:\Berkas Terenkripsi\VB\Sapa\Project1.NET\obj\Debug\ResolveAssemblyReference.cache
+E:\Berkas Terenkripsi\VB\Sapa\Project1.NET\obj\Debug\Project1.Form1.resources
+E:\Berkas Terenkripsi\VB\Sapa\Project1.NET\obj\Debug\Project1.jcbutton.resources
+E:\Berkas Terenkripsi\VB\Sapa\Project1.NET\obj\Debug\Project1.vbproj.GenerateResource.Cache
